@@ -1,0 +1,86 @@
+2022.08.18 16:59:01 INFO  tracing is disabled for protocol LSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hmrc/Documents/Dev/accessibility-frontend/.metals/lsp.trace.json or /Users/hmrc/Library/Caches/org.scalameta.metals/lsp.trace.json
+2022.08.18 16:59:01 INFO  logging to file /Users/hmrc/Documents/Dev/accessibility-frontend/.metals/metals.log
+2022.08.18 16:59:01 INFO  Started: Metals version 0.11.8 in workspace '/Users/hmrc/Documents/Dev/accessibility-frontend' for client Visual Studio Code 1.69.2.
+2022.08.18 16:59:04 WARN  Flyway upgrade recommended: H2 2.1.214 is newer than this version of Flyway and support has not been tested. The latest supported version of H2 is 2.1.210.
+2022.08.18 16:59:05 INFO  time: initialize in 3.88s
+2022.08.18 16:59:41 INFO  no build target found for /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/RadiosFluency.scala. Using presentation compiler with project's scala-library version: 3.1.3
+2022.08.18 16:59:41 WARN  Build server is not auto-connectable.
+2022.08.18 16:59:41 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/RadiosFluency.scala
+2022.08.18 16:59:41 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/SummaryListFluency.scala
+Aug 18, 2022 4:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1
+2022.08.18 16:59:41 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/RadiosFluency.scala
+2022.08.18 16:59:42 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/SummaryListFluency.scala
+Aug 18, 2022 4:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 8
+2022.08.18 16:59:42 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/viewmodels/govuk/TagFluency.scala
+Aug 18, 2022 4:59:42 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2022.08.18 16:59:42 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/app/views/ViewUtils.scala
+2022.08.18 17:00:01 INFO  running '/Users/hmrc/.jabba/jdk/adopt@1.11.0-11/Contents/Home/bin/java -Djline.terminal=jline.UnsupportedTerminal -Dsbt.log.noformat=true -Dfile.encoding=UTF-8 -jar /var/folders/66/152lvf89793_kpsc78sbbhc40000gq/T/metals1358252611935290370/sbt-launch.jar -Dbloop.export-jar-classifiers=sources bloopInstall'
+2022.08.18 17:00:01 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/project/metals.sbt
+2022.08.18 17:00:01 WARN  no build target for: /Users/hmrc/Documents/Dev/accessibility-frontend/project/project/metals.sbt
+2022.08.18 17:00:01 INFO  skipping build import with status 'Started'
+2022.08.18 17:00:02 INFO  [info] welcome to sbt 1.5.8 (AdoptOpenJDK Java 11.0.11)
+2022.08.18 17:00:03 INFO  [info] loading global plugins from /Users/hmrc/.sbt/1.0/plugins
+2022.08.18 17:00:05 INFO  [info] loading settings for project accessibility-frontend-build-build-build from metals.sbt ...
+2022.08.18 17:00:05 INFO  [info] loading project definition from /Users/hmrc/Documents/Dev/accessibility-frontend/project/project/project
+2022.08.18 17:00:08 INFO  [info] loading settings for project accessibility-frontend-build-build from metals.sbt ...
+2022.08.18 17:00:08 INFO  [info] loading project definition from /Users/hmrc/Documents/Dev/accessibility-frontend/project/project
+2022.08.18 17:00:12 INFO  [success] Generated .bloop/accessibility-frontend-build-build.json
+2022.08.18 17:00:12 INFO  [success] Total time: 4 s, completed 18 Aug 2022, 17:00:12
+2022.08.18 17:00:13 INFO  [info] loading settings for project accessibility-frontend-build from metals.sbt,plugins.sbt,scaffold.sbt ...
+2022.08.18 17:00:13 INFO  [info] loading project definition from /Users/hmrc/Documents/Dev/accessibility-frontend/project
+2022.08.18 17:00:36 INFO  [success] Generated .bloop/accessibility-frontend-build.json
+2022.08.18 17:00:36 INFO  [info] compiling 1 Scala source to /Users/hmrc/Documents/Dev/accessibility-frontend/project/target/scala-2.12/sbt-1.0/classes ...
+2022.08.18 17:00:38 INFO  [info] done compiling
+2022.08.18 17:00:38 INFO  [success] Total time: 26 s, completed 18 Aug 2022, 17:00:39
+2022.08.18 17:00:40 ERROR /Users/hmrc/Documents/Dev/accessibility-frontend/build.sbt:16: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.08.18 17:00:40 ERROR   .settings(useSuperShell in ThisBuild := false)
+2022.08.18 17:00:40 ERROR                           ^
+2022.08.18 17:00:40 ERROR /Users/hmrc/Documents/Dev/accessibility-frontend/build.sbt:51: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.08.18 17:00:40 ERROR     evictionWarningOptions in update :=
+2022.08.18 17:00:40 ERROR                            ^
+2022.08.18 17:00:40 ERROR /Users/hmrc/Documents/Dev/accessibility-frontend/build.sbt:65: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.08.18 17:00:40 ERROR     pipelineStages in Assets := Seq(concat,uglify),
+2022.08.18 17:00:40 ERROR                    ^
+2022.08.18 17:00:40 ERROR /Users/hmrc/Documents/Dev/accessibility-frontend/build.sbt:67: warning: method in in trait ScopingSetting is deprecated (since 1.5.0): `in` is deprecated; migrate to slash syntax - https://www.scala-sbt.org/1.x/docs/Migrating-from-sbt-013x.html#slash
+2022.08.18 17:00:40 ERROR     includeFilter in uglify := GlobFilter("application.js")
+2022.08.18 17:00:40 ERROR                   ^
+2022.08.18 17:00:40 INFO  [info] SbtAutoBuildPlugin - adding build settings
+2022.08.18 17:00:40 INFO  [info] loading settings for project root from build.sbt ...
+2022.08.18 17:00:40 INFO  [error] fatal: No names found, cannot describe anything.
+2022.08.18 17:00:40 INFO  [info] SbtAutoBuildPlugin - repository is marked public. Licence headers will be added to all source files
+2022.08.18 17:00:40 INFO  [info]   __              __
+2022.08.18 17:00:40 INFO  [info]   \ \     ____   / /____ _ __  __
+2022.08.18 17:00:40 INFO  [info]    \ \   / __ \ / // __ `// / / /
+2022.08.18 17:00:40 INFO  [info]    / /  / /_/ // // /_/ // /_/ /
+2022.08.18 17:00:40 INFO  [info]   /_/  / .___//_/ \__,_/ \__, /
+2022.08.18 17:00:40 INFO  [info]       /_/               /____/
+2022.08.18 17:00:40 INFO  [info] 
+2022.08.18 17:00:40 INFO  [info] Version 2.8.16 running Java 11.0.11
+2022.08.18 17:00:40 INFO  [info] 
+2022.08.18 17:00:40 INFO  [info] Play is run entirely by the community. Please consider contributing and/or donating:
+2022.08.18 17:00:40 INFO  [info] https://www.playframework.com/sponsors
+2022.08.18 17:00:40 INFO  [info] 
+2022.08.18 17:00:41 INFO  [warn] there's a key that's not used by any other settings/tasks:
+2022.08.18 17:00:41 INFO  [warn]  
+2022.08.18 17:00:41 INFO  [warn] * root / update / evictionWarningOptions
+2022.08.18 17:00:41 INFO  [warn]   +- /Users/hmrc/Documents/Dev/accessibility-frontend/build.sbt:51
+2022.08.18 17:00:41 INFO  [warn]  
+2022.08.18 17:00:41 INFO  [warn] note: a setting might still be used by a command; to exclude a key from this `lintUnused` check
+2022.08.18 17:00:41 INFO  [warn] either append it to `Global / excludeLintKeys` or call .withRank(KeyRanks.Invisible) on the key
+2022.08.18 17:00:41 INFO  [success] Generated .bloop/root.json
+2022.08.18 17:00:41 INFO  [success] Generated .bloop/root-test.json
+2022.08.18 17:00:41 INFO  [success] Generated .bloop/root-it.json
+2022.08.18 17:00:41 INFO  [success] Total time: 1 s, completed 18 Aug 2022, 17:00:42
+2022.08.18 17:00:42 INFO  time: ran 'sbt bloopInstall' in 41s
+2022.08.18 17:00:42 INFO  Attempting to connect to the build server...
+2022.08.18 17:00:42 INFO  Setting up current java home /Users/hmrc/.jabba/jdk/adopt@1.11.0-11/Contents/Home in /Users/hmrc/.bloop/bloop.json
+2022.08.18 17:00:57 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hmrc/Documents/Dev/accessibility-frontend/.metals/bsp.trace.json or /Users/hmrc/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.08.18 17:01:09 INFO  Attempting to connect to the build server...
+2022.08.18 17:01:09 INFO  Bloop uses /Users/hmrc/.jabba/jdk/adopt@1.11.0-11/Contents/Home defined at /Users/hmrc/.bloop/bloop.json
+2022.08.18 17:01:09 INFO  Attempting to connect to the build server...
+2022.08.18 17:01:09 INFO  Bloop uses /Users/hmrc/.jabba/jdk/adopt@1.11.0-11/Contents/Home defined at /Users/hmrc/.bloop/bloop.json
+2022.08.18 17:01:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hmrc/Documents/Dev/accessibility-frontend/project/project/.metals/bsp.trace.json or /Users/hmrc/Library/Caches/org.scalameta.metals/bsp.trace.json
+2022.08.18 17:01:09 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /Users/hmrc/Documents/Dev/accessibility-frontend/project/.metals/bsp.trace.json or /Users/hmrc/Library/Caches/org.scalameta.metals/bsp.trace.json
