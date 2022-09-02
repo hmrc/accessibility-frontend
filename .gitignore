@@ -37,3 +37,6 @@ bin
 .bsp
 .metals
 .vscode
+node_modules/*
+package-lock.json
+token

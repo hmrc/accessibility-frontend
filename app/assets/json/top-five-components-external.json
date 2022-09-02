@@ -1,0 +1,661 @@
+[{
+    "label": "typography",
+    "labels": [{
+        "label": "issue",
+        "description": "Issue raised during an audit",
+        "count": 25,
+        "issues": ["Link style (Pay by bank)", "Page heading not increasing font size (Safari)", "Links in disclosure do not have GOV UK styling", "Links that open in a new window or tab", "Get help with this page needs warning copy", "Link focus styling", "Missing ‘opens in new tab’ as part of the link", "Unstyled copy", "Link too small", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Link \"Is this page not working properly?\" not per design pattern", "Links missing 'opens in a new tab' copy", "Link missing govuk styling", "Opening links in a new window", "Link contrast", "Link opens in new tab without a warning", "New tab link should include `rel=\"noreferrer noopener\"`", "Missing styling on autocomplete", "Links in page body do not have GOV UK styling.", "Links in page body do not have GOV UK styling."]
+    }, {
+        "label": "typography",
+        "description": "Gov Frontend styles",
+        "count": 25,
+        "issues": ["Link style (Pay by bank)", "Page heading not increasing font size (Safari)", "Links in disclosure do not have GOV UK styling", "Links that open in a new window or tab", "Get help with this page needs warning copy", "Link focus styling", "Missing ‘opens in new tab’ as part of the link", "Unstyled copy", "Link too small", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Link \"Is this page not working properly?\" not per design pattern", "Links missing 'opens in a new tab' copy", "Link missing govuk styling", "Opening links in a new window", "Link contrast", "Link opens in new tab without a warning", "New tab link should include `rel=\"noreferrer noopener\"`", "Missing styling on autocomplete", "Links in page body do not have GOV UK styling.", "Links in page body do not have GOV UK styling."]
+    }, {
+        "label": "design pattern",
+        "description": "Audit task: check for design pattern violations",
+        "count": 19,
+        "issues": ["Links that open in a new window or tab", "Get help with this page needs warning copy", "Link focus styling", "Missing ‘opens in new tab’ as part of the link", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Link \"Is this page not working properly?\" not per design pattern", "Links missing 'opens in a new tab' copy", "Link missing govuk styling", "Opening links in a new window", "Link contrast", "Link opens in new tab without a warning", "New tab link should include `rel=\"noreferrer noopener\"`", "Missing styling on autocomplete", "Links in page body do not have GOV UK styling.", "Links in page body do not have GOV UK styling."]
+    }, {
+        "label": "external",
+        "description": "Service type: external",
+        "count": 14,
+        "issues": ["Page heading not increasing font size (Safari)", "Links in disclosure do not have GOV UK styling", "Links that open in a new window or tab", "Link focus styling", "Missing ‘opens in new tab’ as part of the link", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Link \"Is this page not working properly?\" not per design pattern", "Opening links in a new window", "New tab link should include `rel=\"noreferrer noopener\"`"]
+    }, {
+        "label": "audit",
+        "description": "Auditing: audit task",
+        "count": 10,
+        "issues": ["Page heading not increasing font size (Safari)", "Links in disclosure do not have GOV UK styling", "Links that open in a new window or tab", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Link \"Is this page not working properly?\" not per design pattern", "Opening links in a new window", "New tab link should include `rel=\"noreferrer noopener\"`"]
+    }, {
+        "label": "wcag",
+        "description": "Web Content Accessibility Guidelines 2.1",
+        "count": 9,
+        "issues": ["Links that open in a new window or tab", "Get help with this page needs warning copy", "Link focus styling", "Language toggle link focus/hover styling", "HTML error: Stray end tag `hr`", "Link focus styling missing", "Beta banner link focus styling", "Opening links in a new window", "Link contrast"]
+    }, {
+        "label": "code quality",
+        "description": "Audit task: general code quality check",
+        "count": 6,
+        "issues": ["Links in disclosure do not have GOV UK styling", "Unstyled copy", "Link too small", "HTML error: Stray end tag `hr`", "Link \"Is this page not working properly?\" not per design pattern", "Link contrast"]
+    }, {
+        "label": "usability",
+        "description": "Audit task: assess the general usability",
+        "count": 4,
+        "issues": ["Links that open in a new window or tab", "Missing ‘opens in new tab’ as part of the link", "Links in new tab should include `rel=\"noreferrer noopener\"`", "Opening links in a new window"]
+    }, {
+        "label": "wcag 2.4.7 (AA)",
+        "description": "Focus visible",
+        "count": 4,
+        "issues": ["Link focus styling", "Language toggle link focus/hover styling", "Link focus styling missing", "Beta banner link focus styling"]
+    }, {
+        "label": "wcag 3.2.5 (AAA)",
+        "description": "Change on Request",
+        "count": 3,
+        "issues": ["Links that open in a new window or tab", "Get help with this page needs warning copy", "Opening links in a new window"]
+    }, {
+        "label": "QA",
+        "description": "Issue we might expect to have been found by QA",
+        "count": 3,
+        "issues": ["Get help with this page needs warning copy", "Link contrast", "Link opens in new tab without a warning"]
+    }, {
+        "label": "pre-audit",
+        "description": "Auditing: pre-audit task",
+        "count": 2,
+        "issues": ["Link focus styling", "Missing ‘opens in new tab’ as part of the link"]
+    }, {
+        "label": "retest",
+        "description": "Auditing: audit retest",
+        "count": 2,
+        "issues": ["Links in new tab should include `rel=\"noreferrer noopener\"`", "Links in new tab should include `rel=\"noreferrer noopener\"`"]
+    }, {
+        "label": "fieldset",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Page heading not increasing font size (Safari)"]
+    }, {
+        "label": "welsh language toggle",
+        "description": "HMRC Frontend pattern",
+        "count": 1,
+        "issues": ["Language toggle link focus/hover styling"]
+    }, {
+        "label": "gds library source",
+        "description": "A code issue inside a component",
+        "count": 1,
+        "issues": ["HTML error: Stray end tag `hr`"]
+    }, {
+        "label": "wcag 4.1.1 (A)",
+        "description": "Parsing",
+        "count": 1,
+        "issues": ["HTML error: Stray end tag `hr`"]
+    }, {
+        "label": "phase banner",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Beta banner link focus styling"]
+    }, {
+        "label": "wcag 1.4.3 (AA)",
+        "description": "Contrast (Minimum)",
+        "count": 1,
+        "issues": ["Link contrast"]
+    }, {
+        "label": "accessible autocomplete",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Missing styling on autocomplete"]
+    }]
+}, {
+    "label": "text input",
+    "labels": [{
+        "label": "issue",
+        "description": "Issue raised during an audit",
+        "count": 33,
+        "issues": ["Hint not associated with input (Card payment)", "Contrast", "Account number size", "Mis-associated labels", "Warning text and hint text is not associated with form elements", "Out of date currency pattern", "Text field size", "Ambiguous hint text", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Unrequired and incorrect attributes (VAT reg)", "Error state not presented correctly (email)", "Form label contains page content", "Missing inputmode and pattern for number input field", "Hints not associated", "No question associated with the input", "Attributes missing", "Attributes missing", "Attributes missing", "Error styling missing", "Format validation", "Form attributes", "Error inside label", "Hint inside label", "Input is missing attributes", "Error message not linked to input", "Text input hint/error message association", "Missing autocomplete", "Size of form inputs", "Fieldset usage", "Missing error styling", "Aria-labelledby used instead of a label element", "Voice Control user confusion"]
+    }, {
+        "label": "text input",
+        "description": "Gov Frontend component",
+        "count": 33,
+        "issues": ["Hint not associated with input (Card payment)", "Contrast", "Account number size", "Mis-associated labels", "Warning text and hint text is not associated with form elements", "Out of date currency pattern", "Text field size", "Ambiguous hint text", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Unrequired and incorrect attributes (VAT reg)", "Error state not presented correctly (email)", "Form label contains page content", "Missing inputmode and pattern for number input field", "Hints not associated", "No question associated with the input", "Attributes missing", "Attributes missing", "Attributes missing", "Error styling missing", "Format validation", "Form attributes", "Error inside label", "Hint inside label", "Input is missing attributes", "Error message not linked to input", "Text input hint/error message association", "Missing autocomplete", "Size of form inputs", "Fieldset usage", "Missing error styling", "Aria-labelledby used instead of a label element", "Voice Control user confusion"]
+    }, {
+        "label": "design pattern",
+        "description": "Audit task: check for design pattern violations",
+        "count": 26,
+        "issues": ["Hint not associated with input (Card payment)", "Contrast", "Account number size", "Warning text and hint text is not associated with form elements", "Out of date currency pattern", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Unrequired and incorrect attributes (VAT reg)", "Error state not presented correctly (email)", "Missing inputmode and pattern for number input field", "Hints not associated", "No question associated with the input", "Attributes missing", "Attributes missing", "Attributes missing", "Error styling missing", "Form attributes", "Error inside label", "Hint inside label", "Input is missing attributes", "Error message not linked to input", "Text input hint/error message association", "Missing autocomplete", "Size of form inputs", "Missing error styling", "Aria-labelledby used instead of a label element"]
+    }, {
+        "label": "wcag",
+        "description": "Web Content Accessibility Guidelines 2.1",
+        "count": 18,
+        "issues": ["Hint not associated with input (Card payment)", "Contrast", "Mis-associated labels", "Warning text and hint text is not associated with form elements", "Ambiguous hint text", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Unrequired and incorrect attributes (VAT reg)", "Hints not associated", "No question associated with the input", "Attributes missing", "Attributes missing", "Attributes missing", "Form attributes", "Input is missing attributes", "Error message not linked to input", "Text input hint/error message association", "Missing autocomplete"]
+    }, {
+        "label": "external",
+        "description": "Service type: external",
+        "count": 10,
+        "issues": ["Account number size", "Warning text and hint text is not associated with form elements", "Out of date currency pattern", "Text field size", "Ambiguous hint text", "Form label contains page content", "Missing inputmode and pattern for number input field", "Hints not associated", "No question associated with the input", "Text input hint/error message association"]
+    }, {
+        "label": "wcag 1.3.1 (A)",
+        "description": "Info and relationships",
+        "count": 8,
+        "issues": ["Hint not associated with input (Card payment)", "Mis-associated labels", "Warning text and hint text is not associated with form elements", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Hints not associated", "Error message not linked to input", "Text input hint/error message association"]
+    }, {
+        "label": "code quality",
+        "description": "Audit task: general code quality check",
+        "count": 7,
+        "issues": ["Warning text and hint text is not associated with form elements", "Text field size", "Unrequired and incorrect attributes (VAT reg)", "Missing inputmode and pattern for number input field", "Format validation", "Fieldset usage", "Aria-labelledby used instead of a label element"]
+    }, {
+        "label": "wcag 1.3.5 (AA)",
+        "description": "Identify input purpose",
+        "count": 6,
+        "issues": ["Attributes missing", "Attributes missing", "Attributes missing", "Form attributes", "Input is missing attributes", "Missing autocomplete"]
+    }, {
+        "label": "pre-audit",
+        "description": "Auditing: pre-audit task",
+        "count": 4,
+        "issues": ["Out of date currency pattern", "Text field size", "Form label contains page content", "Missing inputmode and pattern for number input field"]
+    }, {
+        "label": "QA",
+        "description": "Issue we might expect to have been found by QA",
+        "count": 4,
+        "issues": ["Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)", "Error styling missing", "Format validation"]
+    }, {
+        "label": "retest",
+        "description": "Auditing: audit retest",
+        "count": 3,
+        "issues": ["Account number size", "Ambiguous hint text", "Hints not associated"]
+    }, {
+        "label": "wcag 4.1.2 (A)",
+        "description": "Name, role, value",
+        "count": 3,
+        "issues": ["Mis-associated labels", "Missing label and format info (Enter amount to pay)", "Missing label and hint/error associations (VAT reg)"]
+    }, {
+        "label": "audit",
+        "description": "Auditing: audit task",
+        "count": 3,
+        "issues": ["Warning text and hint text is not associated with form elements", "No question associated with the input", "Text input hint/error message association"]
+    }, {
+        "label": "wcag 3.3.2 (A)",
+        "description": "Labels or Instructions",
+        "count": 3,
+        "issues": ["Ambiguous hint text", "Unrequired and incorrect attributes (VAT reg)", "No question associated with the input"]
+    }, {
+        "label": "content",
+        "description": "Audit task: check content against style guide",
+        "count": 2,
+        "issues": ["Text field size", "Form label contains page content"]
+    }, {
+        "label": "recover from validation errors",
+        "description": "Gov Frontend pattern",
+        "count": 2,
+        "issues": ["Error state not presented correctly (email)", "Format validation"]
+    }, {
+        "label": "error message",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Error inside label", "Error message not linked to input"]
+    }, {
+        "label": "radios",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Error inside label", "Hint inside label"]
+    }, {
+        "label": "wcag 1.4.3 (AA)",
+        "description": "Contrast (Minimum)",
+        "count": 1,
+        "issues": ["Contrast"]
+    }, {
+        "label": "zoom",
+        "description": "Audit task: test the service with text zoomed",
+        "count": 1,
+        "issues": ["Account number size"]
+    }, {
+        "label": "warning text",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Warning text and hint text is not associated with form elements"]
+    }, {
+        "label": "currency input",
+        "description": "HMRC Frontend pattern",
+        "count": 1,
+        "issues": ["Out of date currency pattern"]
+    }, {
+        "label": "email addresses",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Attributes missing"]
+    }, {
+        "label": "date input",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Attributes missing"]
+    }, {
+        "label": "names",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Attributes missing"]
+    }, {
+        "label": "telephone numbers",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Form attributes"]
+    }, {
+        "label": "screen reader",
+        "description": "Audit task: use a screen reader",
+        "count": 1,
+        "issues": ["Text input hint/error message association"]
+    }, {
+        "label": "accessible autocomplete",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Missing error styling"]
+    }, {
+        "label": "macos",
+        "description": "Platform: macOS",
+        "count": 1,
+        "issues": ["Voice Control user confusion"]
+    }, {
+        "label": "safari",
+        "description": "Browser: Safari",
+        "count": 1,
+        "issues": ["Voice Control user confusion"]
+    }, {
+        "label": "voice control",
+        "description": "Audit task: use Apple’s Voice Control",
+        "count": 1,
+        "issues": ["Voice Control user confusion"]
+    }]
+}, {
+    "label": "error message",
+    "labels": [{
+        "label": "error message",
+        "description": "Gov Frontend component",
+        "count": 26,
+        "issues": ["Ambiguous date error messages", "Error message is convoluted", "Error message should say Select Yes option", "[Merged to #2170]  Error message is not specific", "Red border missing around textarea when error", "Error hint not associated", "Missing error identification", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Error prefix not rendered", "Error message not associated with fieldset", "Error content style", "Unhelpful error message", "Error identification missing", "Error message not associated with fields", "Hint not associated with fieldset", "Error message style missing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not following pattern", "Error message not shown", "Error messages not prefixed with \"error\"", "Error messages", "Error inside label", "Error message not linked to input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "issue",
+        "description": "Issue raised during an audit",
+        "count": 26,
+        "issues": ["Ambiguous date error messages", "Error message is convoluted", "Error message should say Select Yes option", "[Merged to #2170]  Error message is not specific", "Red border missing around textarea when error", "Error hint not associated", "Missing error identification", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Error prefix not rendered", "Error message not associated with fieldset", "Error content style", "Unhelpful error message", "Error identification missing", "Error message not associated with fields", "Hint not associated with fieldset", "Error message style missing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not following pattern", "Error message not shown", "Error messages not prefixed with \"error\"", "Error messages", "Error inside label", "Error message not linked to input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "wcag",
+        "description": "Web Content Accessibility Guidelines 2.1",
+        "count": 16,
+        "issues": ["Ambiguous date error messages", "[Merged to #2170]  Error message is not specific", "Error hint not associated", "Missing error identification", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Error message not associated with fieldset", "Unhelpful error message", "Error identification missing", "Error message not associated with fields", "Hint not associated with fieldset", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not shown", "Error message not linked to input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "design pattern",
+        "description": "Audit task: check for design pattern violations",
+        "count": 16,
+        "issues": ["Error message should say Select Yes option", "[Merged to #2170]  Error message is not specific", "Red border missing around textarea when error", "Error hint not associated", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Unhelpful error message", "Error identification missing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not following pattern", "Error message not shown", "Error messages not prefixed with \"error\"", "Error messages", "Error inside label", "Error message not linked to input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "external",
+        "description": "Service type: external",
+        "count": 13,
+        "issues": ["Ambiguous date error messages", "Error message is convoluted", "Error message should say Select Yes option", "[Merged to #2170]  Error message is not specific", "Missing error identification", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Error prefix not rendered", "Unhelpful error message", "Error message style missing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not following pattern", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "audit",
+        "description": "Auditing: audit task",
+        "count": 10,
+        "issues": ["Ambiguous date error messages", "[Merged to #2170]  Error message is not specific", "Red border missing around textarea when error", "Missing error identification", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not following pattern", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "wcag 3.3.1 (A)",
+        "description": "Error Identification",
+        "count": 9,
+        "issues": ["[Merged to #2170]  Error message is not specific", "Missing error identification", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error message for date pattern don't describe what user should be fixing", "Unhelpful error message", "Error identification missing", "Error messages are misleading and hint text not getting announced by screen readers", "Error message not shown"]
+    }, {
+        "label": "content",
+        "description": "Audit task: check content against style guide",
+        "count": 7,
+        "issues": ["Error message is convoluted", "Error message should say Select Yes option", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Error content style", "Error messages are misleading and hint text not getting announced by screen readers", "Error messages"]
+    }, {
+        "label": "wcag 1.3.1 (A)",
+        "description": "Info and relationships",
+        "count": 6,
+        "issues": ["Error hint not associated", "Error message not associated with fieldset", "Error message not associated with fields", "Hint not associated with fieldset", "Error message not shown", "Error message not linked to input"]
+    }, {
+        "label": "retest",
+        "description": "Auditing: audit retest",
+        "count": 3,
+        "issues": ["Error message is convoluted", "Error message should say Select Yes option", "Error hint not associated"]
+    }, {
+        "label": "radios",
+        "description": "Gov Frontend component",
+        "count": 3,
+        "issues": ["Error message should say Select Yes option", "Error identification missing", "Error inside label"]
+    }, {
+        "label": "date input",
+        "description": "Gov Frontend component",
+        "count": 3,
+        "issues": ["[Merged to #2170]  Error message is not specific", "Error message not associated with fieldset", "Error content style"]
+    }, {
+        "label": "wcag 3.3.2 (A)",
+        "description": "Labels or Instructions",
+        "count": 3,
+        "issues": ["Missing error identification", "Multiple issues with currency input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "code quality",
+        "description": "Audit task: general code quality check",
+        "count": 3,
+        "issues": ["Multiple issues with Bank account details page", "Multiple issues with currency input", "Error prefix not rendered"]
+    }, {
+        "label": "error summary",
+        "description": "Gov Frontend component",
+        "count": 3,
+        "issues": ["Multiple issues with Bank account details page", "Multiple issues with currency input", "Error identification missing"]
+    }, {
+        "label": "pre-audit",
+        "description": "Auditing: pre-audit task",
+        "count": 3,
+        "issues": ["Error prefix not rendered", "Unhelpful error message", "Error message style missing"]
+    }, {
+        "label": "screen reader",
+        "description": "Audit task: use a screen reader",
+        "count": 2,
+        "issues": ["Multiple issues with currency input", "Error messages do not follow pattern - identified in the pre-audit"]
+    }, {
+        "label": "fieldset",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Error message not associated with fields", "Hint not associated with fieldset"]
+    }, {
+        "label": "QA",
+        "description": "Issue we might expect to have been found by QA",
+        "count": 2,
+        "issues": ["Error messages not prefixed with \"error\"", "Error messages"]
+    }, {
+        "label": "text input",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Error inside label", "Error message not linked to input"]
+    }, {
+        "label": "wcag 3.1.1 (A)",
+        "description": "Language of Page",
+        "count": 1,
+        "issues": ["Ambiguous date error messages"]
+    }, {
+        "label": "file upload",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Error hint not associated"]
+    }, {
+        "label": "usability",
+        "description": "Audit task: assess the general usability",
+        "count": 1,
+        "issues": ["Missing error identification"]
+    }, {
+        "label": "wcag 1.3.5 (AA)",
+        "description": "Identify input purpose",
+        "count": 1,
+        "issues": ["Multiple issues with Bank account details page"]
+    }, {
+        "label": "textarea",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Unhelpful error message"]
+    }, {
+        "label": "recover from validation errors",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "bank details",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Error message not associated with fields"]
+    }]
+}, {
+    "label": "error summary",
+    "labels": [{
+        "label": "error summary",
+        "description": "Gov Frontend component",
+        "count": 37,
+        "issues": ["Error summary links non-functioning", "Incorrect focus style", "Broken same page link", "Missing \"Error:\" in `<title>` and summary for file upload", "Error summary link does not work (NINO)", "Error repeated in error summary", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Invalid error summary link", "Error summary link destination", "Error page `<title>` does not follow pattern", "Missing content", "Page url scrolls to error summary", "Error summary doesn't gain focus", "Error repeated in error summary", "Error summary links do not take user to associated inputs", "Error identification missing", "Error summary does not gain focus on page load", "Error summary does not gain focus on page load / link behaviour", "Error summary link does not take user to input", "Error summary missing", "Ambiguous error summary links", "No hover state on link in error summary", "Error summary links missing hover state", "Date error messages have multiple issues", "Date error messages have multiple issues", "Error summary link does not work", "Error summary link not working", "Invalid error link", "Error summary missing", "Page title not updated for error state", "Clicking the error summary link obscures label", "Error summary link does not work", "Error summary does not receive focus on page load", "Error page `<title>` does not follow pattern", "Error summary focus", "Error summary link does not take user to input"]
+    }, {
+        "label": "issue",
+        "description": "Issue raised during an audit",
+        "count": 37,
+        "issues": ["Error summary links non-functioning", "Incorrect focus style", "Broken same page link", "Missing \"Error:\" in `<title>` and summary for file upload", "Error summary link does not work (NINO)", "Error repeated in error summary", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Invalid error summary link", "Error summary link destination", "Error page `<title>` does not follow pattern", "Missing content", "Page url scrolls to error summary", "Error summary doesn't gain focus", "Error repeated in error summary", "Error summary links do not take user to associated inputs", "Error identification missing", "Error summary does not gain focus on page load", "Error summary does not gain focus on page load / link behaviour", "Error summary link does not take user to input", "Error summary missing", "Ambiguous error summary links", "No hover state on link in error summary", "Error summary links missing hover state", "Date error messages have multiple issues", "Date error messages have multiple issues", "Error summary link does not work", "Error summary link not working", "Invalid error link", "Error summary missing", "Page title not updated for error state", "Clicking the error summary link obscures label", "Error summary link does not work", "Error summary does not receive focus on page load", "Error page `<title>` does not follow pattern", "Error summary focus", "Error summary link does not take user to input"]
+    }, {
+        "label": "design pattern",
+        "description": "Audit task: check for design pattern violations",
+        "count": 22,
+        "issues": ["Error summary links non-functioning", "Broken same page link", "Missing \"Error:\" in `<title>` and summary for file upload", "Error summary link does not work (NINO)", "Multiple issues with currency input", "Error page `<title>` does not follow pattern", "Missing content", "Page url scrolls to error summary", "Error summary doesn't gain focus", "Error identification missing", "Error summary does not gain focus on page load", "Error summary does not gain focus on page load / link behaviour", "No hover state on link in error summary", "Error summary links missing hover state", "Date error messages have multiple issues", "Error summary link does not work", "Error summary link not working", "Error summary missing", "Page title not updated for error state", "Error summary does not receive focus on page load", "Error page `<title>` does not follow pattern", "Error summary focus"]
+    }, {
+        "label": "external",
+        "description": "Service type: external",
+        "count": 20,
+        "issues": ["Broken same page link", "Error repeated in error summary", "Multiple issues with currency input", "Invalid error summary link", "Error summary link destination", "Error page `<title>` does not follow pattern", "Error summary doesn't gain focus", "Error repeated in error summary", "Error summary links do not take user to associated inputs", "Error summary link does not take user to input", "Error summary missing", "Ambiguous error summary links", "No hover state on link in error summary", "Error summary links missing hover state", "Date error messages have multiple issues", "Date error messages have multiple issues", "Invalid error link", "Error summary missing", "Error page `<title>` does not follow pattern", "Error summary focus"]
+    }, {
+        "label": "code quality",
+        "description": "Audit task: general code quality check",
+        "count": 14,
+        "issues": ["Error repeated in error summary", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Invalid error summary link", "Error summary link destination", "Missing content", "Error summary doesn't gain focus", "Error repeated in error summary", "Error summary does not gain focus on page load / link behaviour", "Error summary link does not work", "Invalid error link", "Clicking the error summary link obscures label", "Error summary link does not work", "Error summary link does not take user to input"]
+    }, {
+        "label": "pre-audit",
+        "description": "Auditing: pre-audit task",
+        "count": 11,
+        "issues": ["Broken same page link", "Error summary link destination", "Error page `<title>` does not follow pattern", "Error summary doesn't gain focus", "Error repeated in error summary", "Error summary links do not take user to associated inputs", "Error summary link does not take user to input", "Error summary missing", "Ambiguous error summary links", "No hover state on link in error summary", "Error summary links missing hover state"]
+    }, {
+        "label": "audit",
+        "description": "Auditing: audit task",
+        "count": 10,
+        "issues": ["Error repeated in error summary", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Invalid error summary link", "Date error messages have multiple issues", "Date error messages have multiple issues", "Invalid error link", "Error summary missing", "Error page `<title>` does not follow pattern", "Error summary focus"]
+    }, {
+        "label": "wcag",
+        "description": "Web Content Accessibility Guidelines 2.1",
+        "count": 9,
+        "issues": ["Incorrect focus style", "Multiple issues with Bank account details page", "Multiple issues with currency input", "Missing content", "Error identification missing", "Ambiguous error summary links", "Date error messages have multiple issues", "Date error messages have multiple issues", "Error summary focus"]
+    }, {
+        "label": "QA",
+        "description": "Issue we might expect to have been found by QA",
+        "count": 7,
+        "issues": ["Missing \"Error:\" in `<title>` and summary for file upload", "Error summary link does not work (NINO)", "Missing content", "Page title not updated for error state", "Clicking the error summary link obscures label", "Error summary link does not work", "Error summary does not receive focus on page load"]
+    }, {
+        "label": "wcag 3.3.1 (A)",
+        "description": "Error Identification",
+        "count": 6,
+        "issues": ["Multiple issues with Bank account details page", "Multiple issues with currency input", "Error identification missing", "Date error messages have multiple issues", "Date error messages have multiple issues", "Error summary focus"]
+    }, {
+        "label": "error message",
+        "description": "Gov Frontend component",
+        "count": 3,
+        "issues": ["Multiple issues with Bank account details page", "Multiple issues with currency input", "Error identification missing"]
+    }, {
+        "label": "screen reader",
+        "description": "Audit task: use a screen reader",
+        "count": 3,
+        "issues": ["Multiple issues with currency input", "Error page `<title>` does not follow pattern", "Error summary focus"]
+    }, {
+        "label": "content",
+        "description": "Audit task: check content against style guide",
+        "count": 2,
+        "issues": ["Multiple issues with Bank account details page", "Multiple issues with currency input"]
+    }, {
+        "label": "date input",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Date error messages have multiple issues", "Date error messages have multiple issues"]
+    }, {
+        "label": "usability",
+        "description": "Audit task: assess the general usability",
+        "count": 2,
+        "issues": ["Error summary focus", "Error summary link does not take user to input"]
+    }, {
+        "label": "wcag 1.4.11 (AA)",
+        "description": "Non-text contrast",
+        "count": 1,
+        "issues": ["Incorrect focus style"]
+    }, {
+        "label": "retest",
+        "description": "Auditing: audit retest",
+        "count": 1,
+        "issues": ["Missing \"Error:\" in `<title>` and summary for file upload"]
+    }, {
+        "label": "wcag 1.3.5 (AA)",
+        "description": "Identify input purpose",
+        "count": 1,
+        "issues": ["Multiple issues with Bank account details page"]
+    }, {
+        "label": "wcag 3.3.2 (A)",
+        "description": "Labels or Instructions",
+        "count": 1,
+        "issues": ["Multiple issues with currency input"]
+    }, {
+        "label": "wcag 1.3.1 (A)",
+        "description": "Info and relationships",
+        "count": 1,
+        "issues": ["Missing content"]
+    }, {
+        "label": "radios",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "recover from validation errors",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "wcag 2.4.4 (A)",
+        "description": "Link purpose (in context)",
+        "count": 1,
+        "issues": ["Ambiguous error summary links"]
+    }, {
+        "label": "colour",
+        "description": "Gov Frontend styles",
+        "count": 1,
+        "issues": ["No hover state on link in error summary"]
+    }]
+}, {
+    "label": "radios",
+    "labels": [{
+        "label": "issue",
+        "description": "Issue raised during an audit",
+        "count": 36,
+        "issues": ["Missing legend (Pay by bank)", "Unassociated hint/error", "Fieldset and legend missing", "Missing None of the above option", "Error message should say Select Yes option", "Conditionally revealing content not announced", "Incorrectly assigned aria", "Error associated with wrong element (cancel direct debit)", "Missing fieldset", "Unassociated hint copy", "Pre-selected radio buttons", "Ambiguous optional Business account checkbox", "Radio controls missing fieldset", "Inconsistent yes/no pattern", "Conditionally revealing content known issues", "Conditionally revealing content used with inline radios", "Too much information in label", "Missing legend", "Radio button with conditional reveal styling", "Conditionally revealing content known issues", "Duplicate IDs used", "Error identification missing", "Duplicate IDs on radio buttons", "Missing legend and fieldset", "Overly verbose hint copy", "Conditional reveal", "HTML validation / overly complex markup", "Error inside label", "Hint inside label", "HTML validation / hint inside legend", "Additional information as hints", "Missing `<legend>`", "Conditionally revealing content known issues", "Hint and error message not associated with fieldset", "Error message not linked to fieldset", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "radios",
+        "description": "Gov Frontend component",
+        "count": 36,
+        "issues": ["Missing legend (Pay by bank)", "Unassociated hint/error", "Fieldset and legend missing", "Missing None of the above option", "Error message should say Select Yes option", "Conditionally revealing content not announced", "Incorrectly assigned aria", "Error associated with wrong element (cancel direct debit)", "Missing fieldset", "Unassociated hint copy", "Pre-selected radio buttons", "Ambiguous optional Business account checkbox", "Radio controls missing fieldset", "Inconsistent yes/no pattern", "Conditionally revealing content known issues", "Conditionally revealing content used with inline radios", "Too much information in label", "Missing legend", "Radio button with conditional reveal styling", "Conditionally revealing content known issues", "Duplicate IDs used", "Error identification missing", "Duplicate IDs on radio buttons", "Missing legend and fieldset", "Overly verbose hint copy", "Conditional reveal", "HTML validation / overly complex markup", "Error inside label", "Hint inside label", "HTML validation / hint inside legend", "Additional information as hints", "Missing `<legend>`", "Conditionally revealing content known issues", "Hint and error message not associated with fieldset", "Error message not linked to fieldset", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "design pattern",
+        "description": "Audit task: check for design pattern violations",
+        "count": 25,
+        "issues": ["Missing legend (Pay by bank)", "Missing None of the above option", "Error message should say Select Yes option", "Incorrectly assigned aria", "Error associated with wrong element (cancel direct debit)", "Missing fieldset", "Unassociated hint copy", "Pre-selected radio buttons", "Inconsistent yes/no pattern", "Conditionally revealing content known issues", "Missing legend", "Radio button with conditional reveal styling", "Error identification missing", "Missing legend and fieldset", "Overly verbose hint copy", "HTML validation / overly complex markup", "Error inside label", "Hint inside label", "HTML validation / hint inside legend", "Additional information as hints", "Missing `<legend>`", "Conditionally revealing content known issues", "Hint and error message not associated with fieldset", "Error message not linked to fieldset", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "wcag",
+        "description": "Web Content Accessibility Guidelines 2.1",
+        "count": 22,
+        "issues": ["Unassociated hint/error", "Fieldset and legend missing", "Conditionally revealing content not announced", "Incorrectly assigned aria", "Error associated with wrong element (cancel direct debit)", "Missing fieldset", "Unassociated hint copy", "Radio controls missing fieldset", "Conditionally revealing content known issues", "Conditionally revealing content used with inline radios", "Too much information in label", "Missing legend", "Radio button with conditional reveal styling", "Conditionally revealing content known issues", "Duplicate IDs used", "Error identification missing", "Duplicate IDs on radio buttons", "Conditional reveal", "Conditionally revealing content known issues", "Hint and error message not associated with fieldset", "Error message not linked to fieldset", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "external",
+        "description": "Service type: external",
+        "count": 14,
+        "issues": ["Missing None of the above option", "Error message should say Select Yes option", "Pre-selected radio buttons", "Ambiguous optional Business account checkbox", "Radio controls missing fieldset", "Conditionally revealing content known issues", "Conditionally revealing content used with inline radios", "Radio button with conditional reveal styling", "Conditionally revealing content known issues", "Duplicate IDs used", "Duplicate IDs on radio buttons", "Additional information as hints", "Missing `<legend>`", "Conditionally revealing content known issues"]
+    }, {
+        "label": "wcag 1.3.1 (A)",
+        "description": "Info and relationships",
+        "count": 10,
+        "issues": ["Unassociated hint/error", "Fieldset and legend missing", "Error associated with wrong element (cancel direct debit)", "Missing fieldset", "Unassociated hint copy", "Conditionally revealing content used with inline radios", "Duplicate IDs on radio buttons", "Hint and error message not associated with fieldset", "Error message not linked to fieldset", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "wcag 4.1.2 (A)",
+        "description": "Name, role, value",
+        "count": 7,
+        "issues": ["Conditionally revealing content not announced", "Incorrectly assigned aria", "Conditionally revealing content known issues", "Radio button with conditional reveal styling", "Conditionally revealing content known issues", "Conditional reveal", "Conditionally revealing content known issues"]
+    }, {
+        "label": "audit",
+        "description": "Auditing: audit task",
+        "count": 6,
+        "issues": ["Pre-selected radio buttons", "Ambiguous optional Business account checkbox", "Conditionally revealing content known issues", "Additional information as hints", "Missing `<legend>`", "Conditionally revealing content known issues"]
+    }, {
+        "label": "pre-audit",
+        "description": "Auditing: pre-audit task",
+        "count": 6,
+        "issues": ["Radio controls missing fieldset", "Conditionally revealing content known issues", "Conditionally revealing content used with inline radios", "Radio button with conditional reveal styling", "Duplicate IDs used", "Duplicate IDs on radio buttons"]
+    }, {
+        "label": "gds library source",
+        "description": "A code issue inside a component",
+        "count": 4,
+        "issues": ["Conditionally revealing content not announced", "Conditionally revealing content known issues", "Conditional reveal", "Conditionally revealing content known issues"]
+    }, {
+        "label": "screen reader",
+        "description": "Audit task: use a screen reader",
+        "count": 4,
+        "issues": ["Conditionally revealing content used with inline radios", "Conditionally revealing content known issues", "Missing `<legend>`", "Conditionally revealing content known issues"]
+    }, {
+        "label": "error message",
+        "description": "Gov Frontend component",
+        "count": 3,
+        "issues": ["Error message should say Select Yes option", "Error identification missing", "Error inside label"]
+    }, {
+        "label": "usability",
+        "description": "Audit task: assess the general usability",
+        "count": 3,
+        "issues": ["Pre-selected radio buttons", "Ambiguous optional Business account checkbox", "Conditionally revealing content used with inline radios"]
+    }, {
+        "label": "code quality",
+        "description": "Audit task: general code quality check",
+        "count": 3,
+        "issues": ["Radio controls missing fieldset", "Too much information in label", "HTML validation / overly complex markup"]
+    }, {
+        "label": "retest",
+        "description": "Auditing: audit retest",
+        "count": 2,
+        "issues": ["Missing None of the above option", "Error message should say Select Yes option"]
+    }, {
+        "label": "content",
+        "description": "Audit task: check content against style guide",
+        "count": 2,
+        "issues": ["Error message should say Select Yes option", "Hint and error message not associated with fieldset"]
+    }, {
+        "label": "wcag 4.1.1 (A)",
+        "description": "Parsing",
+        "count": 2,
+        "issues": ["Missing fieldset", "Duplicate IDs used"]
+    }, {
+        "label": "wcag 2.4.6 (AA)",
+        "description": "Headings and labels",
+        "count": 2,
+        "issues": ["Radio controls missing fieldset", "Duplicate IDs used"]
+    }, {
+        "label": "wcag 3.3.2 (A)",
+        "description": "Labels or Instructions",
+        "count": 2,
+        "issues": ["Too much information in label", "Missing legend"]
+    }, {
+        "label": "QA",
+        "description": "Issue we might expect to have been found by QA",
+        "count": 2,
+        "issues": ["HTML validation / overly complex markup", "HTML validation / hint inside legend"]
+    }, {
+        "label": "text input",
+        "description": "Gov Frontend component",
+        "count": 2,
+        "issues": ["Error inside label", "Hint inside label"]
+    }, {
+        "label": "checkboxes",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Ambiguous optional Business account checkbox"]
+    }, {
+        "label": "fieldset",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Radio controls missing fieldset"]
+    }, {
+        "label": "error summary",
+        "description": "Gov Frontend component",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "recover from validation errors",
+        "description": "Gov Frontend pattern",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "wcag 3.3.1 (A)",
+        "description": "Error Identification",
+        "count": 1,
+        "issues": ["Error identification missing"]
+    }, {
+        "label": "user experience",
+        "description": "Experience: user experience",
+        "count": 1,
+        "issues": ["Additional information as hints"]
+    }]
+}]

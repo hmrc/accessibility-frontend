@@ -1,0 +1,14 @@
+{
+  "name": "accessibility-frontend",
+  "description": "DIAS Accessibility documentation site",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=10.0.0 <16.0.0"
+  },
+  "scripts": {
+    "labels": "node node_scripts/labels.js",
+    "issues": "node node_scripts/issues.js",
+    "details": "node node_scripts/details.js"
+  }
+}
